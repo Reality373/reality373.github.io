@@ -1,6 +1,6 @@
 <div align="center">
 
-# Saif Shikalgar
+# Saif (Reality)
 ### Embedded Systems Security · Autonomous Vehicles · Android Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reality373)
@@ -137,7 +137,6 @@ A hardware vulnerability scanner that auto-executes security audits the moment i
 - 🔧 Drive-by-Wire rebuild for A-BAJA Season 2 — improving CAN bus security architecture
 - 🔐 Security analysis of autonomous vehicle control systems (CAN bus spoofing, sensor injection)
 - 📱 FiberOpticCalc v2 — adding PDF export, offline mode, team sharing
-- 🎓 Targeting fully-funded MS in Cyber-Physical Systems Security (2026 intake)
 
 ---
 
@@ -145,7 +144,6 @@ A hardware vulnerability scanner that auto-executes security audits the moment i
 
 - **Email:** 15974saif@gmail.com
 - **LinkedIn:** [linkedin.com/in/reality373](https://linkedin.com/in/reality373)
-- **Location:** Pune, Maharashtra, India
 
 ---
 
